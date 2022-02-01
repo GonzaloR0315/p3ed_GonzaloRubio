@@ -5,7 +5,12 @@
  */
 package Practica;
 import java.util.regex.Pattern;
-
+/**
+ * 
+ * @author Gonzalo
+ *@version 1.0.1
+ *
+ */
 public class Persona {
 
     private String dni;
