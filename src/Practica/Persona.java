@@ -21,7 +21,7 @@ public class Persona {
     static final int mayoriaEdad = 18;
 
     public Persona() {
-       // System.out.println("SE ESTÃ� EJECUTANDO EL CONSTRUCTOR POR DEFECTO, PORQUE SI!!!!!!!");
+       // System.out.println("SE ESTÃs EJECUTANDO EL CONSTRUCTOR POR DEFECTO, PORQUE SI!!!!!!!");
     }
     
     
